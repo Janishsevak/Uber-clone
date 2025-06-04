@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Toastify__toast-container {
+    z-index: 99999 !important;
+  }
+  .Toastify__toast {
+    font-size: 1rem;
+  }
